@@ -4,7 +4,8 @@
         "styles": {
             "self": {
                 "margin": [
-                    "mr-3"
+                    "mr-3",
+                    "mt-2"
                 ],
                 "padding": [
                     "pt-2",
