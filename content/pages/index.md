@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       text: 'Securing your space.                      The smart way. '
-      color: text-dark
+      color: text-primary
       type: TitleBlock
       styles:
         self:
