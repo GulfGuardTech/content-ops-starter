@@ -35,7 +35,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/2.png
+      url: /images/GULF GUARD TECH.png
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
