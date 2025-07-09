@@ -40,7 +40,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: SECURING HOMES & BUSINESSES WITH TECH
       color: text-primary
       type: Badge
     elementId: ''
