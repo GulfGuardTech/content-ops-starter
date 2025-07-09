@@ -35,7 +35,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/Purple Modern CCTV Company Profile Presentation.jpg
+      url: /images/Purple Modern CCTV Company Profile Presentation.png
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
