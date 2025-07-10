@@ -70,10 +70,12 @@ sections:
       - type: FeaturedItem
         title: 1500+
         subtitle: Sites Secured
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+
+          We’ve successfully installed CCTV and biometric systems across homes,
+          offices, and retail spaces in the UAE — trusted by families and
+          businesses alike.
+
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
