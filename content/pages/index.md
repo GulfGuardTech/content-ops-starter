@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: leading provider of comprehensive security solutions
+      text: Leading provider of comprehensive Security Solutions
       color: text-primary
       type: TitleBlock
       styles:
