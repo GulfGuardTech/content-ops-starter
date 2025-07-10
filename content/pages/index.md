@@ -11,10 +11,13 @@ sections:
         self:
           fontWeight: 400
     subtitle: Leading provider of comprehensive security solutions
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+
+      GulfGuard Tech provides cutting-edge CCTV, biometric, and smart access
+      solutions tailored for your safety. From small businesses to large
+      facilities, our expert team ensures end-to-end installation, setup, and
+      ongoing support — giving you peace of mind around the clock.
+
     actions:
       - label: Get started
         altText: ''
