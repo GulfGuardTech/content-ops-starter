@@ -19,7 +19,7 @@ sections:
       the clock.*</div>
 
     actions:
-      - label: Get started
+      - label: Get a Free Quote
         altText: ''
         url: /
         showIcon: false
