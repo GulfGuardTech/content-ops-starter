@@ -99,7 +99,7 @@ sections:
             self:
               borderRadius: x-large
       - title: Affordable
-        subtitle: The Job Stuff
+        subtitle: No hidden charges
         text: >+
 
           Top-quality security at prices that won’t break the bank. Custom
