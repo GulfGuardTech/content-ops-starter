@@ -65,7 +65,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Smart protection. Real peace of mind.
     items:
       - type: FeaturedItem
         title: 500k
