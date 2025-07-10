@@ -10,7 +10,7 @@ sections:
       styles:
         self:
           fontWeight: 400
-    subtitle: leading provider of comprehensive security solutions
+    subtitle: Leading provider of comprehensive security solutions
     text: >
       A Netlify Create website is a git repo that you own. Every code commit is
       instantly reflected in the visual editor and since every visual edit is a
