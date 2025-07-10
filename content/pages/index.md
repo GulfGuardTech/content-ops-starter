@@ -10,7 +10,7 @@ sections:
       styles:
         self:
           fontWeight: 400
-    subtitle: Leading provider of comprehensive security solutions
+    subtitle: Smart Security Solutions for Homes and Businesses
     text: >+
 
       GulfGuard Tech provides cutting-edge CCTV, biometric, and smart access
