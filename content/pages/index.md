@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Securing your space.The smart way.
+      text: leading provider of comprehensive security solutions
       color: text-primary
       type: TitleBlock
       styles:
