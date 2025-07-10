@@ -122,7 +122,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: 24/7 support
-        subtitle: 24/7 support and rapid response.
+        subtitle: Rapid response.
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
