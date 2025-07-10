@@ -69,7 +69,7 @@ sections:
     items:
       - type: FeaturedItem
         title: 500+
-        subtitle: Numbers Done
+        subtitle: Sites Secured
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
