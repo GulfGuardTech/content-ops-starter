@@ -12,12 +12,11 @@ sections:
           fontWeight: 400
     subtitle: Smart. Reliable. Secure.
     text: >+
-      <div style="text-align: left">*GulfGuard Tech provides cutting-edge CCTV,
+      <div style="text-align: left">*Gulf Guard Tech provides cutting-edge CCTV,
       biometric, and smart access solutions tailored for your safety. From small
       businesses to large facilities, our expert team ensures end-to-end
-      installation, setup, and ongoing support 
-
-      giving you peace of mind around the clock.*</div>
+      installation, setup, and ongoing support - giving you peace of mind around
+      the clock.*</div>
 
     actions:
       - label: Get a Free Quote
