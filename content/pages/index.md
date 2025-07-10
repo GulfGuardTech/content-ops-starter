@@ -68,7 +68,7 @@ sections:
     subtitle: Smart protection. Real peace of mind.
     items:
       - type: FeaturedItem
-        title: 500+ Sites Secured
+        title: 500+
         subtitle: Numbers Done
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
