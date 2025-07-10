@@ -121,7 +121,7 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: 24/7 support
+      - title: 24/7 SUPOORT
         subtitle: Faster
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
